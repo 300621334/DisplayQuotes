@@ -1,0 +1,11 @@
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\DisplayQuotes\DisplayQuotes\obj\Release\DisplayQuotes.exe
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\DisplayQuotes\DisplayQuotes\obj\Release\DisplayQuotes.pdb
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\obj\Release\DisplayQuotes.exe
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\obj\Release\DisplayQuotes.pdb
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\bin\Release\DisplayQuotes.exe
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\bin\Release\DisplayQuotes.pdb
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\obj\Release\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\obj\Release\DisplayQuotes.Form1.resources
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\obj\Release\DisplayQuotes.Properties.Resources.resources
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\C#\Chapter.13\DisplayQuotes\DisplayQuotes\obj\Release\GenerateResource-ResGen.write.1.tlog

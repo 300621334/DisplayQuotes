@@ -1,0 +1,8 @@
+obj\Release\DisplayQuotes.exe
+obj\Release\DisplayQuotes.pdb
+bin\Release\DisplayQuotes.exe
+bin\Release\DisplayQuotes.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DisplayQuotes.Form1.resources
+obj\Release\DisplayQuotes.Properties.Resources.resources
+obj\Release\DisplayQuotes.csproj.GenerateResource.Cache
